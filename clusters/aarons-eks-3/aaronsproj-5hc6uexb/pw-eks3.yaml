@@ -41,7 +41,7 @@ spec:
           racks:
             - name: r30
               nodeAffinityLabels: {}
-          size: 3
+          size: 4
       resources:
         requests:
           cpu: 1000m
